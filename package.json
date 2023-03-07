@@ -5,7 +5,7 @@
   "main": "zeeone.js",
   "license": "MIT",
   "scripts": {
-    "start": "node zeeone.js"
+    "start": "node . --db 'mongodb+srv://dimasbot:dimasbot@cluster0.apgzm37.mongodb.net/?retryWrites=true&w=majority'"
    },
   "keywords": [
     "whatsapp",
